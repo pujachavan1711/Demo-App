@@ -1,0 +1,70 @@
+img{
+
+    width: 800px;
+    height: 500px;
+    filter: blur();
+}
+
+.container{
+    position: relative;
+    max-width: 400px;
+}
+.container img{
+    width: 800px;
+    height: 600px;
+}
+.container .btn{
+     
+    position: absolute;
+    top: 4%;
+    right: 80%;
+}
+.container .a{
+    position: absolute;
+    top: 10%;
+    left: 12%;
+}
+
+.container .b{
+    position: absolute;
+    top: 20%;
+    right: 9%;
+    width: 300px;
+
+}
+.container .c{
+    position: absolute;
+    top:  20%;
+    right: -9%;
+
+}
+.container .d{
+    position: absolute;
+    top: 25%;
+    right: 9%;
+    width: 150px;
+
+}
+
+.container .e{
+    position: absolute;
+    top: 28%;
+    right: 85%;
+    width: 20px;
+    color: rgb(1, 2, 27);
+
+}
+
+.container .f{
+    position: absolute;
+    top: 28%;
+    right: 85%;
+    width: 20px;
+    color: rgb(15, 9, 1);
+
+}
+.container .g{
+    position: absolute;
+    top:  45%;
+    right: 25%;
+}
